@@ -203,3 +203,8 @@
 [03:11:28 | 23-02-2025] Last Claim Point: 21/02/2025 16:14:29
 [03:11:28 | 23-02-2025] 🚨 Failed to claim points for 0x8228806b2E6ab9Ac9bF4e07b6B0c5bc4A8F72576: [object Object]
 [03:11:29 | 23-02-2025] ✅ Node started for 0x8228806b2E6ab9Ac9bF4e07b6B0c5bc4A8F72576
+[08:01:08 | 23-02-2025] Wallet Address: 0x8228806b2E6ab9Ac9bF4e07b6B0c5bc4A8F72576
+[08:01:08 | 23-02-2025] Node Points: 157082
+[08:01:08 | 23-02-2025] Last Claim Point: 21/02/2025 16:14:29
+[08:01:08 | 23-02-2025] 🚨 Failed to claim points for 0x8228806b2E6ab9Ac9bF4e07b6B0c5bc4A8F72576: [object Object]
+[08:01:09 | 23-02-2025] 🚨 Failed to start node for 0x8228806b2E6ab9Ac9bF4e07b6B0c5bc4A8F72576: [object Object]
